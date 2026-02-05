@@ -1,0 +1,702 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 04 Feb 2026 14:35:56 at https://herbnkathy.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://herbnkathy.com/* +*.jpg +*.jpeg +*.png +*.gif +*.svg +*.webp
+(winhttrack -qwr5C2%Pns2u1%s%uN0%I0p3DaK0c5H0%kf2o0A250000%c5%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://herbnkathy.com/ -O1 "C:\Users\Dbald\OneDrive\HerbnKathy\basenew\herbnkathy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://herbnkathy.com/* +*.jpg +*.jpeg +*.png +*.gif +*.svg +*.webp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:36:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://herbnkathy.com/xmlrpc.php (from https://herbnkathy.com/)
+14:36:37	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://herbnkathy.com/)
+14:36:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://herbnkathy.com/xmlrpc.php?rsd (from https://herbnkathy.com/)
+14:37:03	Error: 	"Not Found" (404) at link https://herbnkathy.com/?page_id=6674 (from https://herbnkathy.com/)
+15:04:16	Warning: 	Warning: store text/css without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/gmpg.org/xfn/default.css
+15:04:16	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/gmpg.org/xfn/.html
+15:04:16	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/gmpg.org/xfn/intro.html
+15:04:16	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/gmpg.org/xfn/faq.html
+15:04:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://herbnkathy.com/xmlrpc.php (from https://herbnkathy.com/)
+15:04:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://herbnkathy.com/xmlrpc.php?rsd (from https://herbnkathy.com/)
+15:04:18	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2985
+15:04:18	Warning: 	File has moved from https://herbnkathy.com/?p=2985 to https://herbnkathy.com/about-us/
+15:04:20	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5428
+15:04:20	Warning: 	File has moved from https://herbnkathy.com/?p=5428 to https://herbnkathy.com/where-weve-been/
+15:04:20	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6252
+15:04:20	Warning: 	File has moved from https://herbnkathy.com/?p=6252 to https://herbnkathy.com/my-ham-radio-hobby/
+15:04:21	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://s01.fagcounter.com/robots.txt (from https://herbnkathy.com/my-ham-radio-hobby/)
+15:04:21	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://s01.fagcounter.com/count2/GsQY/bg_14FF1C/txt_000000/border_2B0CF2/columns_3/maxflags_100/viewers_0/labels_1/pageviews_1/flags_0/percent_0/ (from https://herbnkathy.com/my-ham-radio-hobby/)
+15:04:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8987
+15:04:21	Warning: 	File has moved from https://herbnkathy.com/?p=8987 to https://herbnkathy.com/2025/01/03/freshen-up-the-rig/
+15:12:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://ir-na.amazon-adsystem.com/robots.txt (from https://herbnkathy.com/category/technology/)
+15:12:03	Warning: 	Retry after error -5 (Unable to get server's address: The requested name is valid, but no data of the ) at link https://ir-na.amazon-adsystem.com/e/ir?t=herbnkathy-20&language=en_US&l=li2&o=1&a=B01CS1HUXI (from https://herbnkathy.com/category/technology/)
+15:12:03	Error: 	"Not Found" (404) at link https://www.bluefire-llc.com/files/Getting Started Motorhomes.pdf (from https://herbnkathy.com/category/technology/)
+15:18:55	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8972
+15:18:55	Warning: 	File has moved from https://herbnkathy.com/?p=8972 to https://herbnkathy.com/2024/12/30/heading-back-for-the-winter/
+15:20:39	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8901
+15:20:39	Warning: 	File has moved from https://herbnkathy.com/?p=8901 to https://herbnkathy.com/2024/04/12/changes-continue/
+15:23:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ws-na.amazon-adsystem.com/robots.txt (from https://herbnkathy.com/tag/airstream/)
+15:23:34	Warning: 	Retry after error -5 (Unable to get server's address: The requested name is valid, but no data of the ) at link ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01B5RBOA6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=herbnkathy-20&language=en_US (from https://herbnkathy.com/tag/airstream/)
+15:23:34	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://ir-na.amazon-adsystem.com/e/ir?t=herbnkathy-20&language=en_US&l=li2&o=1&a=B01B5RBOA6 (from https://herbnkathy.com/tag/airstream/)
+15:25:06	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8887
+15:25:06	Warning: 	File has moved from https://herbnkathy.com/?p=8887 to https://herbnkathy.com/2023/12/20/getting-in-the-spirit/
+15:33:29	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8851
+15:33:29	Warning: 	File has moved from https://herbnkathy.com/?p=8851 to https://herbnkathy.com/2023/12/13/were-selling-our-motorhome/
+15:33:54	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8769
+15:33:54	Warning: 	File has moved from https://herbnkathy.com/?p=8769 to https://herbnkathy.com/2023/09/30/campground-review-kendall-campground-usace-jamestown-ky/
+15:34:01	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7492
+15:34:01	Warning: 	File has moved from https://herbnkathy.com/?p=7492 to https://herbnkathy.com/2021/05/21/camp-hosting-dale-hollow-lake-state-park-kentucky/
+15:34:51	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8739
+15:34:51	Warning: 	File has moved from https://herbnkathy.com/?p=8739 to https://herbnkathy.com/2023/09/14/volunteering-at-40-mile-point-lighthouse/
+15:34:51	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8718
+15:34:51	Warning: 	File has moved from https://herbnkathy.com/?p=8718 to https://herbnkathy.com/2023/08/23/a-great-trip-back-home/
+15:38:08	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8712
+15:38:08	Warning: 	File has moved from https://herbnkathy.com/?p=8712 to https://herbnkathy.com/2023/08/16/a-great-visit-from-family/
+15:38:08	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8707
+15:38:08	Warning: 	File has moved from https://herbnkathy.com/?p=8707 to https://herbnkathy.com/2023/08/02/goodbye-to-new-friends/
+15:38:32	Error: 	"Not Found" (404) at link https://www.quartzsitervshow.com/files/9813/7175/9122/aerial12_980_300sm.jpg (from https://herbnkathy.com/tag/batteries/)
+15:38:33	Error: 	"Not Found" (404) at link https://herbnkathy.com/one-minute-business/ (from https://herbnkathy.com/tag/batteries/)
+15:38:58	Warning: 	Moved Permanently for herbnkathy.com/robots.txt
+15:38:58	Warning: 	Redirected link is identical because of 'URL Hack' option: herbnkathy.com/robots.txt and https://herbnkathy.com/robots.txt
+15:38:58	Warning: 	Warning moved treated for herbnkathy.com/robots.txt (real one is https://herbnkathy.com/robots.txt)
+15:38:58	Warning: 	Moved Permanently for herbnkathy.com/2016/04/23/jam-session-the-north-ranch/
+15:38:58	Warning: 	Redirected link is identical because of 'URL Hack' option: herbnkathy.com/2016/04/23/jam-session-the-north-ranch/ and https://herbnkathy.com/2016/04/23/jam-session-the-north-ranch/
+15:38:58	Warning: 	File has moved from herbnkathy.com/2016/04/23/jam-session-the-north-ranch/ to https://herbnkathy.com/2016/04/23/jam-session-the-north-ranch/
+15:43:18	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://herbnkathy.com/xmlrpc.php (from https://herbnkathy.com/)
+15:43:18	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://herbnkathy.com/xmlrpc.php?rsd (from https://herbnkathy.com/)
+15:43:18	Warning: 	Moved Permanently for https://herbnkathy.com/?p=270
+15:43:18	Warning: 	File has moved from https://herbnkathy.com/?p=270 to https://herbnkathy.com/2016/03/16/our-home-on-the-road/
+15:43:20	Warning: 	Moved Permanently for herbnkathy.com/2016/04/28/welcome-to-herb-kathys-travel-blog/
+15:43:20	Warning: 	Redirected link is identical because of 'URL Hack' option: herbnkathy.com/2016/04/28/welcome-to-herb-kathys-travel-blog/ and https://herbnkathy.com/2016/04/28/welcome-to-herb-kathys-travel-blog/
+15:43:20	Warning: 	File has moved from herbnkathy.com/2016/04/28/welcome-to-herb-kathys-travel-blog/ to https://herbnkathy.com/2016/04/28/welcome-to-herb-kathys-travel-blog/
+15:43:20	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://s01.fagcounter.com/count2/GsQY/bg_14FF1C/txt_000000/border_2B0CF2/columns_3/maxflags_100/viewers_0/labels_1/pageviews_1/flags_0/percent_0/ (from https://herbnkathy.com/my-ham-radio-hobby/)
+15:43:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5896
+15:43:21	Warning: 	File has moved from https://herbnkathy.com/?p=5896 to https://herbnkathy.com/2019/06/24/glacier-national-park/
+15:43:37	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4325
+15:43:37	Warning: 	File has moved from https://herbnkathy.com/?p=4325 to https://herbnkathy.com/2017/11/03/what-happens-when-we-cant-travel-anymore/
+15:43:44	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4267
+15:43:44	Warning: 	File has moved from https://herbnkathy.com/?p=4267 to https://herbnkathy.com/2017/10/07/care-feeding-deep-cycle-lead-acid-batteries/
+15:43:44	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3946
+15:43:44	Warning: 	File has moved from https://herbnkathy.com/?p=3946 to https://herbnkathy.com/2017/08/09/part-2-nwest-michigan-road-trip-mushrooms-tunnels-bears-and-indians-oh-my/
+15:43:45	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3852
+15:43:45	Warning: 	File has moved from https://herbnkathy.com/?p=3852 to https://herbnkathy.com/2017/07/24/workampers-northwest-michigan-road-trip/
+15:43:45	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3712
+15:43:45	Warning: 	File has moved from https://herbnkathy.com/?p=3712 to https://herbnkathy.com/2017/05/13/our-day-trip-to-ludington-state-park/
+15:43:46	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3689
+15:43:46	Warning: 	File has moved from https://herbnkathy.com/?p=3689 to https://herbnkathy.com/2017/05/12/fishermans-paradise/
+15:43:46	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3759
+15:43:46	Warning: 	File has moved from https://herbnkathy.com/?p=3759 to https://herbnkathy.com/2017/05/31/idlewild-the-end-of-segregation/
+15:43:53	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3745
+15:43:53	Warning: 	File has moved from https://herbnkathy.com/?p=3745 to https://herbnkathy.com/2017/05/27/down-to-the-little-bitely-tavern/
+15:43:59	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3488
+15:43:59	Warning: 	File has moved from https://herbnkathy.com/?p=3488 to https://herbnkathy.com/2017/03/13/goodbye-arizona/
+15:44:02	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3057
+15:44:02	Warning: 	File has moved from https://herbnkathy.com/?p=3057 to https://herbnkathy.com/2017/01/16/our-day-trip-to-petrified-forest/
+15:44:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1764
+15:44:07	Warning: 	File has moved from https://herbnkathy.com/?p=1764 to https://herbnkathy.com/2016/09/23/the-north-rim-is-amazing/
+15:44:10	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1739
+15:44:10	Warning: 	File has moved from https://herbnkathy.com/?p=1739 to https://herbnkathy.com/2016/09/17/keeping-busy-learning-the-ropes-video/
+15:44:12	Warning: 	Moved Permanently for herbnkathy.com/2016/08/02/oil-creek-family-campground/
+15:44:12	Warning: 	Redirected link is identical because of 'URL Hack' option: herbnkathy.com/2016/08/02/oil-creek-family-campground/ and https://herbnkathy.com/2016/08/02/oil-creek-family-campground/
+15:44:12	Warning: 	File has moved from herbnkathy.com/2016/08/02/oil-creek-family-campground/ to https://herbnkathy.com/2016/08/02/oil-creek-family-campground/
+15:44:15	Warning: 	Moved Permanently for herbnkathy.com/2016/04/18/a-beautiful-day-in-san-diego/
+15:44:15	Warning: 	Redirected link is identical because of 'URL Hack' option: herbnkathy.com/2016/04/18/a-beautiful-day-in-san-diego/ and https://herbnkathy.com/2016/04/18/a-beautiful-day-in-san-diego/
+15:44:15	Warning: 	File has moved from herbnkathy.com/2016/04/18/a-beautiful-day-in-san-diego/ to https://herbnkathy.com/2016/04/18/a-beautiful-day-in-san-diego/
+15:44:18	Error: 	"Not Found" (404) at link https://get.google.com/albumarchive/pwa/s/c/transparent_album_background.gif (from https://herbnkathy.com/category/blogging/page/2/)
+15:44:20	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8659
+15:44:20	Warning: 	File has moved from https://herbnkathy.com/?p=8659 to https://herbnkathy.com/2023/07/27/back-to-northern-michigan/
+15:44:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8569
+15:44:22	Warning: 	File has moved from https://herbnkathy.com/?p=8569 to https://herbnkathy.com/2023/03/16/summer-camping-in-michigan-with-friends-and-family/
+15:44:24	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8260
+15:44:24	Warning: 	File has moved from https://herbnkathy.com/?p=8260 to https://herbnkathy.com/2021/12/28/uh-oh-transmission-slips/
+15:44:34	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8254
+15:44:34	Warning: 	File has moved from https://herbnkathy.com/?p=8254 to https://herbnkathy.com/2021/12/14/replacing-our-genset-auto-transfer-switch/
+15:44:35	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7854
+15:44:35	Warning: 	File has moved from https://herbnkathy.com/?p=7854 to https://herbnkathy.com/2021/09/27/what-no-power-in-the-rv/
+15:44:37	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8243
+15:44:37	Warning: 	File has moved from https://herbnkathy.com/?p=8243 to https://herbnkathy.com/2021/11/29/replacing-our-motorhome-windshield-again/
+15:44:41	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7894
+15:44:41	Warning: 	File has moved from https://herbnkathy.com/?p=7894 to https://herbnkathy.com/2021/09/28/just-a-little-burp-with-the-car-and-the-computer/
+15:45:57	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7881
+15:45:57	Warning: 	File has moved from https://herbnkathy.com/?p=7881 to https://herbnkathy.com/2021/09/28/montana-and-south-to-medora-and-beyond/
+15:45:57	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7314
+15:45:57	Warning: 	File has moved from https://herbnkathy.com/?p=7314 to https://herbnkathy.com/2020/11/18/really-unlimited-streaming-for-only-25-mo/
+15:46:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8097
+15:46:07	Warning: 	File has moved from https://herbnkathy.com/?p=8097 to https://herbnkathy.com/2021/10/18/tourist-review-wyoming-territorial-prison-state-historic-site/
+15:47:06	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8034
+15:47:06	Warning: 	File has moved from https://herbnkathy.com/?p=8034 to https://herbnkathy.com/2021/10/06/tourist-review-the-messenger-museum-cheyenne-wyoming/
+15:47:26	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7800
+15:47:26	Warning: 	File has moved from https://herbnkathy.com/?p=7800 to https://herbnkathy.com/2021/09/26/kc-to-spearfish-and-beyond-installment-4/
+15:47:27	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5836
+15:47:27	Warning: 	File has moved from https://herbnkathy.com/?p=5836 to https://herbnkathy.com/2019/06/17/camp-hosting-at-fort-peck-montana/
+15:47:29	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7724
+15:47:29	Warning: 	File has moved from https://herbnkathy.com/?p=7724 to https://herbnkathy.com/2021/09/03/our-trek-west-installment-2/
+15:47:29	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4003
+15:47:29	Warning: 	File has moved from https://herbnkathy.com/?p=4003 to https://herbnkathy.com/2017/08/13/workamping-at-pere-marquette-rv-park-baldwin-mich/
+15:47:33	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6789
+15:47:33	Warning: 	File has moved from https://herbnkathy.com/?p=6789 to https://herbnkathy.com/2020/02/16/mexico-day-three/
+15:47:37	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6765
+15:47:37	Warning: 	File has moved from https://herbnkathy.com/?p=6765 to https://herbnkathy.com/2020/02/15/mexico-day-two/
+15:47:38	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6752
+15:47:38	Warning: 	File has moved from https://herbnkathy.com/?p=6752 to https://herbnkathy.com/2020/02/11/stopover-at-potrero/
+15:47:40	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8574
+15:47:40	Warning: 	File has moved from https://herbnkathy.com/?p=8574 to https://herbnkathy.com/2022/12/05/going-under-the-knife-and-robot/
+15:47:42	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8690
+15:47:42	Warning: 	File has moved from https://herbnkathy.com/?p=8690 to https://herbnkathy.com/2023/07/30/we-made-it-to-the-light/
+15:47:43	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8498
+15:47:43	Warning: 	File has moved from https://herbnkathy.com/?p=8498 to https://herbnkathy.com/2022/12/03/gotta-keep-from-getting-bored/
+15:47:45	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7135
+15:47:45	Warning: 	File has moved from https://herbnkathy.com/?p=7135 to https://herbnkathy.com/2020/05/10/additional-discounts-on-tsd-fuel-program-announced/
+15:47:45	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7093
+15:47:45	Warning: 	File has moved from https://herbnkathy.com/?p=7093 to https://herbnkathy.com/2020/05/01/saving-on-diesel-fuel-new-program/
+15:47:45	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6749
+15:47:45	Warning: 	File has moved from https://herbnkathy.com/?p=6749 to https://herbnkathy.com/2020/02/08/on-our-way-to-mexico/
+15:47:47	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6652
+15:47:47	Warning: 	File has moved from https://herbnkathy.com/?p=6652 to https://herbnkathy.com/2019/12/15/whats-our-engine-thinking/
+15:47:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://ir-na.amazon-adsystem.com/e/ir?t=herbnkathy-20&language=en_US&l=li2&o=1&a=B01CS1HUXI (from https://herbnkathy.com/category/technology/)
+15:47:48	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8497
+15:47:48	Warning: 	File has moved from https://herbnkathy.com/?p=8497 to https://herbnkathy.com/2022/11/28/hip-replacement-time-again/
+15:47:49	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8146
+15:47:49	Warning: 	File has moved from https://herbnkathy.com/?p=8146 to https://herbnkathy.com/2021/10/15/tourist-review-dead-horse-point-state-park-se-utah/
+15:48:00	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7695
+15:48:00	Warning: 	File has moved from https://herbnkathy.com/?p=7695 to https://herbnkathy.com/2021/08/12/time-to-hit-the-road-again/
+15:48:02	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7674
+15:48:02	Warning: 	File has moved from https://herbnkathy.com/?p=7674 to https://herbnkathy.com/2021/08/11/my-hip-replacement-recovery/
+15:48:02	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4515
+15:48:02	Warning: 	File has moved from https://herbnkathy.com/?p=4515 to https://herbnkathy.com/2018/01/11/workamping-fun-at-rainbows-end-rv-park-livingston-tx/
+15:48:03	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5916
+15:48:03	Warning: 	File has moved from https://herbnkathy.com/?p=5916 to https://herbnkathy.com/2019/06/24/volunteering-at-d-c-booth-fish-hatchery/
+15:48:04	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7601
+15:48:04	Warning: 	File has moved from https://herbnkathy.com/?p=7601 to https://herbnkathy.com/2021/07/07/all-good-things-come-to-an-end/
+15:48:09	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6721
+15:48:09	Warning: 	File has moved from https://herbnkathy.com/?p=6721 to https://herbnkathy.com/2020/01/12/readying-for-our-trip-to-q/
+15:48:11	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2741
+15:48:11	Warning: 	File has moved from https://herbnkathy.com/?p=2741 to https://herbnkathy.com/2017/01/01/our-adventure-to-quartzsite/
+15:48:16	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4452
+15:48:16	Warning: 	File has moved from https://herbnkathy.com/?p=4452 to https://herbnkathy.com/2017/12/12/interior-remodel-of-our-airstream-motorhome/
+15:48:20	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8596
+15:48:20	Warning: 	File has moved from https://herbnkathy.com/?p=8596 to https://herbnkathy.com/2022/12/18/now-its-her-turn/
+15:48:28	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8291
+15:48:28	Warning: 	File has moved from https://herbnkathy.com/?p=8291 to https://herbnkathy.com/2021/12/16/merry-christmas-and-happy-new-year-greetings-from-herb-and-kathy/
+15:48:39	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8298
+15:48:39	Warning: 	File has moved from https://herbnkathy.com/?p=8298 to https://herbnkathy.com/2021/12/31/christmas-in-mexico/
+15:48:41	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3812
+15:48:41	Warning: 	File has moved from https://herbnkathy.com/?p=3812 to https://herbnkathy.com/2017/06/18/rc-jets-so-cool/
+15:48:43	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8167
+15:48:43	Warning: 	File has moved from https://herbnkathy.com/?p=8167 to https://herbnkathy.com/2021/10/31/winslow-meteor-crater-az/
+15:48:43	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6070
+15:48:43	Warning: 	File has moved from https://herbnkathy.com/?p=6070 to https://herbnkathy.com/2019/07/28/is-it-the-places-or-the-people/
+15:48:46	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2419
+15:48:46	Warning: 	File has moved from https://herbnkathy.com/?p=2419 to https://herbnkathy.com/2016/12/08/speaking-of-workamping/
+15:48:47	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5620
+15:48:47	Warning: 	File has moved from https://herbnkathy.com/?p=5620 to https://herbnkathy.com/2019/04/28/the-landscape-keeps-changing/
+15:49:03	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5560
+15:49:03	Warning: 	File has moved from https://herbnkathy.com/?p=5560 to https://herbnkathy.com/2019/03/23/great-time-at-escapade-19/
+15:49:05	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4969
+15:49:05	Warning: 	File has moved from https://herbnkathy.com/?p=4969 to https://herbnkathy.com/2018/09/11/where-were-headed-next/
+15:49:13	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4960
+15:49:13	Warning: 	File has moved from https://herbnkathy.com/?p=4960 to https://herbnkathy.com/2018/08/31/workampers-needed-in-nw-michigan/
+15:49:18	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7709
+15:49:18	Warning: 	File has moved from https://herbnkathy.com/?p=7709 to https://herbnkathy.com/2021/08/30/our-trek-west-installment-one/
+15:49:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7648
+15:49:22	Warning: 	File has moved from https://herbnkathy.com/?p=7648 to https://herbnkathy.com/2021/07/09/motorhome-dead/
+15:49:25	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7300
+15:49:25	Warning: 	File has moved from https://herbnkathy.com/?p=7300 to https://herbnkathy.com/2020/11/15/sharing-some-news-from-mexico/
+15:49:25	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6940
+15:49:25	Warning: 	File has moved from https://herbnkathy.com/?p=6940 to https://herbnkathy.com/2020/02/28/giving-back-to-our-hosts/
+15:49:29	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7141
+15:49:29	Warning: 	File has moved from https://herbnkathy.com/?p=7141 to https://herbnkathy.com/2020/08/15/thinking-about-full-time-rving/
+15:49:30	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7051
+15:49:30	Warning: 	File has moved from https://herbnkathy.com/?p=7051 to https://herbnkathy.com/2020/04/07/home-safe-in-ohio/
+15:49:37	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7004
+15:49:37	Warning: 	File has moved from https://herbnkathy.com/?p=7004 to https://herbnkathy.com/2020/03/02/heading-east-night-1/
+15:49:38	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6989
+15:49:38	Warning: 	File has moved from https://herbnkathy.com/?p=6989 to https://herbnkathy.com/2020/03/01/made-it-through-the-gauntlet-kind-of/
+15:49:41	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7411
+15:49:41	Warning: 	File has moved from https://herbnkathy.com/?p=7411 to https://herbnkathy.com/2021/04/01/time-to-move-on/
+15:49:43	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7263
+15:49:43	Warning: 	File has moved from https://herbnkathy.com/?p=7263 to https://herbnkathy.com/2020/11/10/off-the-road-during-covid/
+15:49:44	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6856
+15:49:44	Warning: 	File has moved from https://herbnkathy.com/?p=6856 to https://herbnkathy.com/2020/02/18/mexico-day-4-more-zoo-wine/
+15:49:45	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5155
+15:49:45	Warning: 	File has moved from https://herbnkathy.com/?p=5155 to https://herbnkathy.com/2018/12/11/cactus-in-casa-grande/
+15:49:45	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7039
+15:49:45	Warning: 	File has moved from https://herbnkathy.com/?p=7039 to https://herbnkathy.com/2020/03/21/our-time-in-florida-and-covid-19/
+15:49:45	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7116
+15:49:45	Warning: 	File has moved from https://herbnkathy.com/?p=7116 to https://herbnkathy.com/2020/05/09/day-43-of-isolation-for-full-time-rvers/
+15:49:46	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1441
+15:49:46	Warning: 	File has moved from https://herbnkathy.com/?p=1441 to https://herbnkathy.com/2016/09/01/wonderful-life-in-morrow-county/
+15:49:51	Warning: 	Moved Permanently for https://herbnkathy.com/?p=25
+15:49:51	Warning: 	File has moved from https://herbnkathy.com/?p=25 to https://herbnkathy.com/2011/09/18/they-need-to-turn-in-their-driver-license/
+15:49:53	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7931
+15:49:53	Warning: 	File has moved from https://herbnkathy.com/?p=7931 to https://herbnkathy.com/2021/10/04/campground-review-historic-fort-robinson-state-park-crawford-nebraska/
+15:49:53	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7929
+15:49:53	Warning: 	File has moved from https://herbnkathy.com/?p=7929 to https://herbnkathy.com/2021/10/02/tourist-review-hot-springs-sd/
+15:49:54	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7912
+15:49:54	Warning: 	File has moved from https://herbnkathy.com/?p=7912 to https://herbnkathy.com/2021/10/01/angostura-lake-recreation-area-sd/
+15:49:54	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5512
+15:49:54	Warning: 	File has moved from https://herbnkathy.com/?p=5512 to https://herbnkathy.com/2019/03/03/finally-the-leak-is-fixed/
+15:49:57	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4470
+15:49:57	Warning: 	File has moved from https://herbnkathy.com/?p=4470 to https://herbnkathy.com/2017/12/15/airstream-motorhome-exterior-tour/
+15:49:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01B5RBOA6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=herbnkathy-20&language=en_US (from https://herbnkathy.com/tag/airstream/)
+15:49:58	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://ir-na.amazon-adsystem.com/e/ir?t=herbnkathy-20&language=en_US&l=li2&o=1&a=B01B5RBOA6 (from https://herbnkathy.com/tag/airstream/)
+15:49:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4239
+15:49:58	Warning: 	File has moved from https://herbnkathy.com/?p=4239 to https://herbnkathy.com/2017/10/06/airstream-factory-tour/
+15:49:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=274
+15:49:58	Warning: 	File has moved from https://herbnkathy.com/?p=274 to https://herbnkathy.com/2016/03/16/our-home-on-the-road/2015-12-11-14-19-11/
+15:49:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=275
+15:49:58	Warning: 	File has moved from https://herbnkathy.com/?p=275 to https://herbnkathy.com/2016/03/16/our-home-on-the-road/dsc_0003/
+15:49:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=276
+15:49:58	Warning: 	File has moved from https://herbnkathy.com/?p=276 to https://herbnkathy.com/2016/03/16/our-home-on-the-road/dsc_0007/
+15:49:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=281
+15:49:58	Warning: 	File has moved from https://herbnkathy.com/?p=281 to https://herbnkathy.com/2016/03/16/our-home-on-the-road/dsc_0009/
+15:49:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=282
+15:49:58	Warning: 	File has moved from https://herbnkathy.com/?p=282 to https://herbnkathy.com/2016/03/16/our-home-on-the-road/dsc_0010/
+15:49:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=283
+15:49:58	Warning: 	File has moved from https://herbnkathy.com/?p=283 to https://herbnkathy.com/2016/03/16/our-home-on-the-road/dsc_0011/
+15:49:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=284
+15:49:58	Warning: 	File has moved from https://herbnkathy.com/?p=284 to https://herbnkathy.com/2016/03/16/our-home-on-the-road/dsc_0012/
+15:49:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=285
+15:49:58	Warning: 	File has moved from https://herbnkathy.com/?p=285 to https://herbnkathy.com/2016/03/16/our-home-on-the-road/dsc_0013/
+15:49:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=286
+15:49:58	Warning: 	File has moved from https://herbnkathy.com/?p=286 to https://herbnkathy.com/2016/03/16/our-home-on-the-road/dsc_0015/
+15:49:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=287
+15:49:58	Warning: 	File has moved from https://herbnkathy.com/?p=287 to https://herbnkathy.com/2016/03/16/our-home-on-the-road/dsc_0016/
+15:50:02	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5134
+15:50:02	Warning: 	File has moved from https://herbnkathy.com/?p=5134 to https://herbnkathy.com/2018/11/21/casa-grande-ruins-national-monument/
+15:50:02	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1851
+15:50:02	Warning: 	File has moved from https://herbnkathy.com/?p=1851 to https://herbnkathy.com/2016/09/28/is-it-really-a-castle/
+15:50:16	Warning: 	Moved Permanently for https://herbnkathy.com/?p=675
+15:50:16	Warning: 	File has moved from https://herbnkathy.com/?p=675 to https://herbnkathy.com/2016/04/14/deming-nm-to-casa-grande-az/
+15:50:24	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4816
+15:50:24	Warning: 	File has moved from https://herbnkathy.com/?p=4816 to https://herbnkathy.com/2018/06/09/our-visit-to-the-voice-of-america/
+15:50:26	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4707
+15:50:26	Warning: 	File has moved from https://herbnkathy.com/?p=4707 to https://herbnkathy.com/2018/04/14/driveway-surfing-is-a-blast/
+15:50:27	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4512
+15:50:27	Warning: 	File has moved from https://herbnkathy.com/?p=4512 to https://herbnkathy.com/2018/01/07/how-do-we-know-were-not-going-to-freeze-down-below/
+15:50:30	Warning: 	Moved Permanently for https://herbnkathy.com/?p=340
+15:50:30	Warning: 	File has moved from https://herbnkathy.com/?p=340 to https://herbnkathy.com/2016/03/30/finally-ready/
+15:50:33	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8056
+15:50:33	Warning: 	File has moved from https://herbnkathy.com/?p=8056 to https://herbnkathy.com/2021/10/08/tourist-review-harvest-host-staypine-bluffs-distilling-pine-bluffs-wy/
+15:50:33	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7977
+15:50:33	Warning: 	File has moved from https://herbnkathy.com/?p=7977 to https://herbnkathy.com/2021/10/05/campground-review-cabelas-sidney-nebraska/
+15:50:34	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5383
+15:50:34	Warning: 	File has moved from https://herbnkathy.com/?p=5383 to https://herbnkathy.com/2019/02/06/road-trip-over-parker-dam/
+15:50:34	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5235
+15:50:34	Warning: 	File has moved from https://herbnkathy.com/?p=5235 to https://herbnkathy.com/2019/01/01/another-great-climb-er-drive-up-the-mountain/
+15:50:49	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5545
+15:50:49	Warning: 	File has moved from https://herbnkathy.com/?p=5545 to https://herbnkathy.com/2019/03/18/where-were-heading-to-next/
+15:50:51	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6270
+15:50:51	Warning: 	File has moved from https://herbnkathy.com/?p=6270 to https://herbnkathy.com/2019/12/09/working-with-historicorps-national-elk-refuge/
+15:50:52	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6190
+15:50:52	Warning: 	File has moved from https://herbnkathy.com/?p=6190 to https://herbnkathy.com/2019/12/03/yellowstone/
+15:50:53	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3302
+15:50:53	Warning: 	File has moved from https://herbnkathy.com/?p=3302 to https://herbnkathy.com/2017/02/23/architecture-meets-ecology-arcology-at-arcosanti/
+15:50:53	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5821
+15:50:53	Warning: 	File has moved from https://herbnkathy.com/?p=5821 to https://herbnkathy.com/2019/05/08/so-just-what-is-fort-peck/
+15:50:54	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5477
+15:50:54	Warning: 	File has moved from https://herbnkathy.com/?p=5477 to https://herbnkathy.com/2019/02/11/how-do-they-make-those/
+15:50:55	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5352
+15:50:55	Warning: 	File has moved from https://herbnkathy.com/?p=5352 to https://herbnkathy.com/2019/02/02/a-great-time-in-quartzsite-mostly/
+15:50:55	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5296
+15:50:55	Warning: 	File has moved from https://herbnkathy.com/?p=5296 to https://herbnkathy.com/2019/01/03/the-magnificent-saguaro-cactus/
+15:50:56	Warning: 	Moved Permanently for https://herbnkathy.com/?p=8129
+15:50:56	Warning: 	File has moved from https://herbnkathy.com/?p=8129 to https://herbnkathy.com/2021/10/16/campground-review-encampment-wy-city-park-campground/
+15:50:56	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7460
+15:50:56	Warning: 	File has moved from https://herbnkathy.com/?p=7460 to https://herbnkathy.com/2021/04/10/settling-in-at-dale-hollow/
+15:50:57	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7474
+15:50:57	Warning: 	File has moved from https://herbnkathy.com/?p=7474 to https://herbnkathy.com/2021/04/21/just-a-little-hike/
+15:50:57	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7578
+15:50:57	Warning: 	File has moved from https://herbnkathy.com/?p=7578 to https://herbnkathy.com/2021/06/30/our-day-trip-to-cumberland-falls/
+15:50:57	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7769
+15:50:57	Warning: 	File has moved from https://herbnkathy.com/?p=7769 to https://herbnkathy.com/2021/09/17/our-trek-west-installment-3/
+15:50:57	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6156
+15:50:57	Warning: 	File has moved from https://herbnkathy.com/?p=6156 to https://herbnkathy.com/2019/09/01/bless-the-simple-things/
+15:50:57	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6019
+15:50:57	Warning: 	File has moved from https://herbnkathy.com/?p=6019 to https://herbnkathy.com/2019/07/16/our-visit-to-deadwood-and-lead/
+15:51:01	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6101
+15:51:01	Warning: 	File has moved from https://herbnkathy.com/?p=6101 to https://herbnkathy.com/2019/09/01/bike-week-at-sturgis/
+15:51:01	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7453
+15:51:01	Warning: 	File has moved from https://herbnkathy.com/?p=7453 to https://herbnkathy.com/2021/04/06/a-cabelas-overnighter/
+15:51:03	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4022
+15:51:03	Warning: 	File has moved from https://herbnkathy.com/?p=4022 to https://herbnkathy.com/2017/08/28/waterfalls-in-michigan-really/
+15:51:03	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1064
+15:51:03	Warning: 	File has moved from https://herbnkathy.com/?p=1064 to https://herbnkathy.com/2016/04/28/were-getting-closer/
+15:51:04	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5010
+15:51:04	Warning: 	File has moved from https://herbnkathy.com/?p=5010 to https://herbnkathy.com/2018/09/25/tinkertown-what-the-heck-is-that/
+15:51:06	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4405
+15:51:06	Warning: 	File has moved from https://herbnkathy.com/?p=4405 to https://herbnkathy.com/2017/12/06/wow-what-a-blast-friends-weve-seen-along-the-way/
+15:51:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3826
+15:51:07	Warning: 	File has moved from https://herbnkathy.com/?p=3826 to https://herbnkathy.com/2017/07/01/honoring-our-veterans-at-the-park-2/
+15:51:14	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3673
+15:51:14	Warning: 	File has moved from https://herbnkathy.com/?p=3673 to https://herbnkathy.com/2017/05/09/old-home-week-in-s-e-michigan/
+15:51:14	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3653
+15:51:14	Warning: 	File has moved from https://herbnkathy.com/?p=3653 to https://herbnkathy.com/2017/05/02/first-day-in-michigan-proud-lake-recreation-area/
+15:52:30	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5626
+15:52:30	Warning: 	File has moved from https://herbnkathy.com/?p=5626 to https://herbnkathy.com/2019/04/11/camping-at-school/
+15:52:31	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4955
+15:52:31	Warning: 	File has moved from https://herbnkathy.com/?p=4955 to https://herbnkathy.com/2018/08/31/storm-came-through-our-park-video/
+15:52:36	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4853
+15:52:36	Warning: 	File has moved from https://herbnkathy.com/?p=4853 to https://herbnkathy.com/2018/06/24/workamping-near-the-river-fun/
+15:52:39	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4103
+15:52:39	Warning: 	File has moved from https://herbnkathy.com/?p=4103 to https://herbnkathy.com/2017/09/23/rv-park-review-pere-marquette-oaks-rv-condo-resort-michigan/
+15:52:39	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2338
+15:52:39	Warning: 	File has moved from https://herbnkathy.com/?p=2338 to https://herbnkathy.com/2016/11/20/so-just-what-is-workamping-anyway/
+15:52:41	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3717
+15:52:41	Warning: 	File has moved from https://herbnkathy.com/?p=3717 to https://herbnkathy.com/2017/05/26/our-first-official-week-on-the-job/
+15:52:43	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1228
+15:52:43	Warning: 	File has moved from https://herbnkathy.com/?p=1228 to https://herbnkathy.com/2016/06/26/amateur-radio-field-day-june-2016/
+15:52:43	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1221
+15:52:43	Warning: 	File has moved from https://herbnkathy.com/?p=1221 to https://herbnkathy.com/2016/06/24/solar-still-not-working-right/
+15:52:43	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1158
+15:52:43	Warning: 	File has moved from https://herbnkathy.com/?p=1158 to https://herbnkathy.com/2016/06/19/solar-panels-not-working/
+15:52:53	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7426
+15:52:53	Warning: 	File has moved from https://herbnkathy.com/?p=7426 to https://herbnkathy.com/2021/04/05/our-first-harvest-hosts-overnighter/
+15:52:53	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3128
+15:52:53	Warning: 	File has moved from https://herbnkathy.com/?p=3128 to https://herbnkathy.com/2017/01/18/getting-ready-for-quartzsite/
+15:52:54	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1621
+15:52:54	Warning: 	File has moved from https://herbnkathy.com/?p=1621 to https://herbnkathy.com/2016/09/12/we-didnt-know-anybody-in-kansas-past-tense/
+15:52:54	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3451
+15:52:54	Warning: 	File has moved from https://herbnkathy.com/?p=3451 to https://herbnkathy.com/2017/03/10/just-a-few-miles-down-the-road/
+15:52:54	Warning: 	Moved Permanently for https://herbnkathy.com/?p=838
+15:52:54	Warning: 	File has moved from https://herbnkathy.com/?p=838 to https://herbnkathy.com/2016/04/24/cactus-garden-the-north-ranch/
+15:53:03	Warning: 	Moved Permanently for https://herbnkathy.com/?p=781
+15:53:03	Warning: 	File has moved from https://herbnkathy.com/?p=781 to https://herbnkathy.com/2016/04/24/a-few-days-rest-congress-az/
+15:53:06	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3469
+15:53:06	Warning: 	File has moved from https://herbnkathy.com/?p=3469 to https://herbnkathy.com/2017/03/10/the-ghost-town-of-cherry-az/
+15:53:12	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link c.tribune.com.pk/2015/06/906080-gallows-1434670903-994-640x480.jpg (from https://herbnkathy.com/tag/mining/)
+15:53:16	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2190
+15:53:16	Warning: 	File has moved from https://herbnkathy.com/?p=2190 to https://herbnkathy.com/2016/11/01/lions-tigers-bears-oh-my/
+15:53:19	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1707
+15:53:19	Warning: 	File has moved from https://herbnkathy.com/?p=1707 to https://herbnkathy.com/2016/09/16/happy-to-be-in-camp-verde/
+15:53:20	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5599
+15:53:20	Warning: 	File has moved from https://herbnkathy.com/?p=5599 to https://herbnkathy.com/2019/03/27/ok-so-ill-chime-in/
+15:53:24	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3151
+15:53:24	Warning: 	File has moved from https://herbnkathy.com/?p=3151 to https://herbnkathy.com/2017/02/01/lake-havasu-parker-dam/
+15:53:24	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1571
+15:53:24	Warning: 	File has moved from https://herbnkathy.com/?p=1571 to https://herbnkathy.com/2016/09/06/what-no-can-opener/
+15:53:24	Warning: 	Moved Permanently for https://herbnkathy.com/?p=821
+15:53:24	Warning: 	File has moved from https://herbnkathy.com/?p=821 to https://herbnkathy.com/2016/04/25/what-a-great-eatery-nichols-west/
+15:53:26	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5070
+15:53:26	Warning: 	File has moved from https://herbnkathy.com/?p=5070 to https://herbnkathy.com/2018/11/01/our-stop-at-the-home-of-the-aliens/
+15:53:26	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1365
+15:53:26	Warning: 	File has moved from https://herbnkathy.com/?p=1365 to https://herbnkathy.com/2016/07/28/pooper-pumper-day/
+15:53:26	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1346
+15:53:26	Warning: 	File has moved from https://herbnkathy.com/?p=1346 to https://herbnkathy.com/2016/07/25/some-pictures-from-the-escapade/
+15:54:17	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1300
+15:54:17	Warning: 	File has moved from https://herbnkathy.com/?p=1300 to https://herbnkathy.com/2016/07/20/wow-adirondacks-lake-champlain/
+15:54:17	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1267
+15:54:17	Warning: 	File has moved from https://herbnkathy.com/?p=1267 to https://herbnkathy.com/2016/07/20/off-to-the-escapade/
+15:54:17	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2636
+15:54:17	Warning: 	File has moved from https://herbnkathy.com/?p=2636 to https://herbnkathy.com/2016/12/20/merry-christmas-from-herb-kathy/
+15:54:18	Warning: 	Moved Permanently for https://herbnkathy.com/?p=158
+15:54:18	Warning: 	File has moved from https://herbnkathy.com/?p=158 to https://herbnkathy.com/2012/08/05/baldwin-family-niagara-falls-trip-august-2012/
+15:54:20	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7018
+15:54:20	Warning: 	File has moved from https://herbnkathy.com/?p=7018 to https://herbnkathy.com/2020/03/03/making-progress/
+15:54:20	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2431
+15:54:20	Warning: 	File has moved from https://herbnkathy.com/?p=2431 to https://herbnkathy.com/2016/12/01/how-well-is-our-fridge-working/
+15:54:20	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4259
+15:54:20	Warning: 	File has moved from https://herbnkathy.com/?p=4259 to https://herbnkathy.com/2017/10/06/review-lake-vandalia-campground/
+15:54:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4010
+15:54:21	Warning: 	File has moved from https://herbnkathy.com/?p=4010 to https://herbnkathy.com/2017/08/20/riding-a-cable-ferry-at-lake-charlevoix/
+15:54:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3188
+15:54:21	Warning: 	File has moved from https://herbnkathy.com/?p=3188 to https://herbnkathy.com/2017/02/06/bill-williams-river-wildlife-refuge-lake-havasu-az/
+15:54:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1029
+15:54:21	Warning: 	File has moved from https://herbnkathy.com/?p=1029 to https://herbnkathy.com/2016/04/28/found-a-great-little-park-yuma-tn/
+15:54:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6761
+15:54:21	Warning: 	File has moved from https://herbnkathy.com/?p=6761 to https://herbnkathy.com/2020/02/15/mexico-day-one/
+15:54:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2606
+15:54:21	Warning: 	File has moved from https://herbnkathy.com/?p=2606 to https://herbnkathy.com/2016/12/15/the-fence-wall-border/
+15:54:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5817
+15:54:21	Warning: 	File has moved from https://herbnkathy.com/?p=5817 to https://herbnkathy.com/2019/05/04/its-worth-saving/
+15:54:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4278
+15:54:21	Warning: 	File has moved from https://herbnkathy.com/?p=4278 to https://herbnkathy.com/2017/10/15/our-visit-to-hot-springs-bath-house-row-scary/
+15:54:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1976
+15:54:22	Warning: 	File has moved from https://herbnkathy.com/?p=1976 to https://herbnkathy.com/2016/10/04/the-importance-of-copper-in-our-lives/
+15:54:26	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6623
+15:54:26	Warning: 	File has moved from https://herbnkathy.com/?p=6623 to https://herbnkathy.com/2019/12/14/herbnkathy-solar-install/
+15:54:27	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3251
+15:54:27	Warning: 	File has moved from https://herbnkathy.com/?p=3251 to https://herbnkathy.com/2017/02/08/kathys-visit-to-readers-oasis-aka-the-naked-bookseller/
+15:54:27	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3204
+15:54:27	Warning: 	File has moved from https://herbnkathy.com/?p=3204 to https://herbnkathy.com/2017/01/31/quartzfest-ham-radio-convention-in-the-sanoran-desert/
+15:54:27	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6166
+15:54:27	Warning: 	File has moved from https://herbnkathy.com/?p=6166 to https://herbnkathy.com/2019/09/05/fun-for-all-ages-spearfish/
+15:54:27	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7020
+15:54:27	Warning: 	File has moved from https://herbnkathy.com/?p=7020 to https://herbnkathy.com/2020/03/08/only-a-couple-hiccups/
+15:54:27	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4139
+15:54:27	Warning: 	File has moved from https://herbnkathy.com/?p=4139 to https://herbnkathy.com/2017/09/26/our-trip-home-the-long-way/
+15:54:28	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4692
+15:54:28	Warning: 	File has moved from https://herbnkathy.com/?p=4692 to https://herbnkathy.com/2018/03/25/were-ready-for-something-different-whatll-it-be/
+15:54:29	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5015
+15:54:29	Warning: 	File has moved from https://herbnkathy.com/?p=5015 to https://herbnkathy.com/2018/10/20/volunteering-at-albuquerque-international-balloon-fiesta-aibf/
+15:54:30	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5197
+15:54:30	Warning: 	File has moved from https://herbnkathy.com/?p=5197 to https://herbnkathy.com/2018/12/20/arizona-cotton-farm-tour/
+15:54:30	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3515
+15:54:30	Warning: 	File has moved from https://herbnkathy.com/?p=3515 to https://herbnkathy.com/2017/03/18/a-little-gem-in-central-texas/
+15:54:33	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3497
+15:54:33	Warning: 	File has moved from https://herbnkathy.com/?p=3497 to https://herbnkathy.com/2017/03/16/oooops-didnt-make-it-to-roswell/
+15:55:32	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1191
+15:55:32	Warning: 	File has moved from https://herbnkathy.com/?p=1191 to https://herbnkathy.com/2016/06/19/disinfecting-the-fresh-water-system/
+15:55:36	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5754
+15:55:36	Warning: 	File has moved from https://herbnkathy.com/?p=5754 to https://herbnkathy.com/2019/05/08/just-a-sleepy-little-town/
+15:55:37	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3575
+15:55:37	Warning: 	File has moved from https://herbnkathy.com/?p=3575 to https://herbnkathy.com/2017/03/28/familiar-faces-in-new-places/
+15:55:37	Warning: 	Moved Permanently for https://herbnkathy.com/?p=504
+15:55:37	Warning: 	File has moved from https://herbnkathy.com/?p=504 to https://herbnkathy.com/2016/04/08/the-oklahoma-city-zoo/
+15:55:37	Warning: 	Moved Permanently for https://herbnkathy.com/?p=290
+15:55:37	Warning: 	File has moved from https://herbnkathy.com/?p=290 to https://herbnkathy.com/2016/03/19/generator-clunk/
+15:55:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://s01.fagcounter.com/count2/GsQY/bg_14FF1C/txt_000000/border_2B0CF2/columns_3/maxflags_100/viewers_0/labels_1/pageviews_1/flags_0/percent_0/ (from https://herbnkathy.com/my-ham-radio-hobby/)
+15:55:38	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6268
+15:55:38	Warning: 	File has moved from https://herbnkathy.com/?p=6268 to https://herbnkathy.com/2019/12/10/bodie-california-ghost-town/
+15:55:39	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4356
+15:55:39	Warning: 	File has moved from https://herbnkathy.com/?p=4356 to https://herbnkathy.com/2017/11/25/where-weve-been/
+15:55:39	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2363
+15:55:39	Warning: 	File has moved from https://herbnkathy.com/?p=2363 to https://herbnkathy.com/2016/11/22/amphibious-motor-home/
+15:55:39	Warning: 	Moved Permanently for https://herbnkathy.com/?p=710
+15:55:39	Warning: 	File has moved from https://herbnkathy.com/?p=710 to https://herbnkathy.com/2016/04/15/facebook-and-rvillage/
+15:55:39	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2644
+15:55:39	Warning: 	File has moved from https://herbnkathy.com/?p=2644 to https://herbnkathy.com/2017/01/01/youre-going-to-do-what/
+15:55:41	Warning: 	Moved Permanently for https://herbnkathy.com/?p=767
+15:55:41	Warning: 	File has moved from https://herbnkathy.com/?p=767 to https://herbnkathy.com/2016/04/18/super-windy-at-judy-bobs/
+15:55:44	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3776
+15:55:44	Warning: 	File has moved from https://herbnkathy.com/?p=3776 to https://herbnkathy.com/2017/05/31/they-certainly-know-how-to-party/
+15:55:46	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3427
+15:55:46	Warning: 	File has moved from https://herbnkathy.com/?p=3427 to https://herbnkathy.com/2017/03/11/things-to-see-and-do-near-rancho-verde-rv-park/
+15:55:46	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3491
+15:55:46	Warning: 	File has moved from https://herbnkathy.com/?p=3491 to https://herbnkathy.com/2017/03/14/roswell-here-we-come/
+15:55:46	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2954
+15:55:46	Warning: 	File has moved from https://herbnkathy.com/?p=2954 to https://herbnkathy.com/2017/01/10/and-now-for-the-rest-of-the-story/
+15:55:48	Warning: 	Moved Permanently for https://herbnkathy.com/?p=986
+15:55:48	Warning: 	File has moved from https://herbnkathy.com/?p=986 to https://herbnkathy.com/2016/04/24/tragedy-on-the-highway/
+15:55:48	Warning: 	Moved Permanently for https://herbnkathy.com/?p=824
+15:55:48	Warning: 	File has moved from https://herbnkathy.com/?p=824 to https://herbnkathy.com/2016/04/23/tuesday-to-the-grand-canyon/
+15:55:48	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1436
+15:55:48	Warning: 	File has moved from https://herbnkathy.com/?p=1436 to https://herbnkathy.com/2016/08/31/time-for-new-windshield-more/
+15:55:48	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1313
+15:55:48	Warning: 	File has moved from https://herbnkathy.com/?p=1313 to https://herbnkathy.com/2016/07/24/sorry-no-photos-yet/
+15:55:48	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1103
+15:55:48	Warning: 	File has moved from https://herbnkathy.com/?p=1103 to https://herbnkathy.com/2016/04/29/30-days-7000-miles-who-knows-how-much/
+15:55:48	Warning: 	Moved Permanently for https://herbnkathy.com/?p=76
+15:55:48	Warning: 	File has moved from https://herbnkathy.com/?p=76 to https://herbnkathy.com/2011/10/03/94th-annual-gymanfu-ganu-homer-ohio/
+15:55:50	Warning: 	Moved Permanently for https://herbnkathy.com/?p=526
+15:55:50	Warning: 	File has moved from https://herbnkathy.com/?p=526 to https://herbnkathy.com/2016/04/08/water-pumps-installed/
+15:55:52	Warning: 	Moved Permanently for https://herbnkathy.com/?p=573
+15:55:52	Warning: 	File has moved from https://herbnkathy.com/?p=573 to https://herbnkathy.com/2016/04/09/fuse-pullings-a-pain/
+15:55:53	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1522
+15:55:53	Warning: 	File has moved from https://herbnkathy.com/?p=1522 to https://herbnkathy.com/2016/09/05/readying-to-hit-the-road/
+15:55:53	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2904
+15:55:53	Warning: 	File has moved from https://herbnkathy.com/?p=2904 to https://herbnkathy.com/2017/01/10/honey-shouldnt-we-get-those-toad-brakes-installed/
+15:55:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=304
+15:55:58	Warning: 	File has moved from https://herbnkathy.com/?p=304 to https://herbnkathy.com/2016/03/21/now-its-the-brakes/
+15:55:59	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7326
+15:55:59	Warning: 	File has moved from https://herbnkathy.com/?p=7326 to https://herbnkathy.com/2020/11/25/our-covid-thanksgiving/
+15:56:01	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6381
+15:56:01	Warning: 	File has moved from https://herbnkathy.com/?p=6381 to https://herbnkathy.com/2019/12/11/holiday-greetings-from-herb-kathy-on-the-road/
+15:56:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3264
+15:56:07	Warning: 	File has moved from https://herbnkathy.com/?p=3264 to https://herbnkathy.com/2017/02/12/the-pony-express-very-impressive/
+15:56:18	Warning: 	Moved Permanently for https://herbnkathy.com/?p=392
+15:56:18	Warning: 	File has moved from https://herbnkathy.com/?p=392 to https://herbnkathy.com/2016/04/04/onondaga-cave-state-park-leasville-mo/
+15:56:20	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2071
+15:56:20	Warning: 	File has moved from https://herbnkathy.com/?p=2071 to https://herbnkathy.com/2016/10/16/can-you-see-it/
+15:56:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6740
+15:56:21	Warning: 	File has moved from https://herbnkathy.com/?p=6740 to https://herbnkathy.com/2020/02/08/boomerville-winding-down/
+15:56:21	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://ir-na.amazon-adsystem.com/e/ir?t=herbnkathy-20&language=en_US&l=li2&o=1&a=B01CS1HUXI (from https://herbnkathy.com/category/technology/)
+15:56:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1587
+15:56:21	Warning: 	File has moved from https://herbnkathy.com/?p=1587 to https://herbnkathy.com/2016/09/10/all-is-well-in-colorado/
+15:56:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3135
+15:56:21	Warning: 	File has moved from https://herbnkathy.com/?p=3135 to https://herbnkathy.com/2017/01/19/our-trip-to-dead-horse-ranch-state-park-cottonwood-az/
+15:56:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=641
+15:56:21	Warning: 	File has moved from https://herbnkathy.com/?p=641 to https://herbnkathy.com/2016/04/12/a-good-day-for-travel/
+15:56:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2231
+15:56:21	Warning: 	File has moved from https://herbnkathy.com/?p=2231 to https://herbnkathy.com/2016/11/10/road-trip-to-arches-national-park/
+15:56:21	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4533
+15:56:21	Warning: 	File has moved from https://herbnkathy.com/?p=4533 to https://herbnkathy.com/2018/03/18/great-february-in-florida/
+15:56:35	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2785
+15:56:35	Warning: 	File has moved from https://herbnkathy.com/?p=2785 to https://herbnkathy.com/2017/01/05/artisans-at-work-amazing/
+15:56:36	Warning: 	Moved Permanently for https://herbnkathy.com/?p=557
+15:56:36	Warning: 	File has moved from https://herbnkathy.com/?p=557 to https://herbnkathy.com/2016/04/09/those-pesky-little-things-and-big-fingers/
+15:56:37	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4082
+15:56:37	Warning: 	File has moved from https://herbnkathy.com/?p=4082 to https://herbnkathy.com/2017/09/06/what-we-do-about-health-care/
+15:56:38	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4475
+15:56:38	Warning: 	File has moved from https://herbnkathy.com/?p=4475 to https://herbnkathy.com/2017/12/23/merry-christmas/
+15:56:40	Error: 	"Not Found" (404) at link t0.gstatic.com/images?q=tbn:ANd9GcQs4y-z0_nGVxknKtIX1HVieIb3BTKJmY0BD7CpjhrG-EHWcf7Teg (from https://herbnkathy.com/tag/holidays/)
+15:56:40	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7380
+15:56:40	Warning: 	File has moved from https://herbnkathy.com/?p=7380 to https://herbnkathy.com/2021/01/06/remember-when/
+15:56:43	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3798
+15:56:43	Warning: 	File has moved from https://herbnkathy.com/?p=3798 to https://herbnkathy.com/2017/06/18/honoring-our-veterans-at-the-park/
+15:56:43	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2452
+15:56:43	Warning: 	File has moved from https://herbnkathy.com/?p=2452 to https://herbnkathy.com/2016/12/11/our-trip-to-the-border/
+15:56:44	Warning: 	Moved Permanently for https://herbnkathy.com/?p=5769
+15:56:44	Warning: 	File has moved from https://herbnkathy.com/?p=5769 to https://herbnkathy.com/2019/05/02/rodeo-pool-cues-really/
+15:56:47	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4977
+15:56:47	Warning: 	File has moved from https://herbnkathy.com/?p=4977 to https://herbnkathy.com/2018/09/14/so-what-day-is-it/
+15:56:49	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1661
+15:56:49	Warning: 	File has moved from https://herbnkathy.com/?p=1661 to https://herbnkathy.com/2016/09/15/look-kath-we-can-see-the-whole-thing/
+15:56:50	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4923
+15:56:50	Warning: 	File has moved from https://herbnkathy.com/?p=4923 to https://herbnkathy.com/2018/08/17/our-visit-to-the-gerald-r-ford-presidential-museum/
+15:56:50	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2883
+15:56:50	Warning: 	File has moved from https://herbnkathy.com/?p=2883 to https://herbnkathy.com/2017/01/09/im-a-dudeist-priest/
+15:56:50	Warning: 	Moved Permanently for https://herbnkathy.com/?p=6924
+15:56:50	Warning: 	File has moved from https://herbnkathy.com/?p=6924 to https://herbnkathy.com/2020/02/22/movin-on-south/
+15:56:50	Warning: 	Moved Permanently for https://herbnkathy.com/?p=351
+15:56:50	Warning: 	File has moved from https://herbnkathy.com/?p=351 to https://herbnkathy.com/2016/03/31/so-exasperating/
+15:56:50	Warning: 	Moved Permanently for https://herbnkathy.com/?p=30
+15:56:50	Warning: 	File has moved from https://herbnkathy.com/?p=30 to https://herbnkathy.com/2011/09/18/sunday-sunday/
+15:56:50	Warning: 	Moved Permanently for https://herbnkathy.com/?p=38
+15:56:50	Warning: 	File has moved from https://herbnkathy.com/?p=38 to https://herbnkathy.com/2011/09/19/poor-quincy/
+15:56:51	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01B5RBOA6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=herbnkathy-20&language=en_US (from https://herbnkathy.com/tag/airstream/)
+15:56:51	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://ir-na.amazon-adsystem.com/e/ir?t=herbnkathy-20&language=en_US&l=li2&o=1&a=B01B5RBOA6 (from https://herbnkathy.com/tag/airstream/)
+15:56:51	Warning: 	Moved Permanently for https://herbnkathy.com/?p=481
+15:56:51	Warning: 	File has moved from https://herbnkathy.com/?p=481 to https://herbnkathy.com/2016/04/07/oklahoma-city-botanical-gardens-myriad-gardens/
+15:56:53	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1921
+15:56:53	Warning: 	File has moved from https://herbnkathy.com/?p=1921 to https://herbnkathy.com/2016/10/02/toozi-what/
+15:56:55	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2097
+15:56:55	Warning: 	File has moved from https://herbnkathy.com/?p=2097 to https://herbnkathy.com/2016/10/20/petroglyphs-at-v-bar-v-ranch/
+15:56:55	Error: 	"Not Found" (404) at link https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprdb5294717.jpg (from https://herbnkathy.com/2016/10/20/petroglyphs-at-v-bar-v-ranch/)
+15:56:56	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4274
+15:56:56	Warning: 	File has moved from https://herbnkathy.com/?p=4274 to https://herbnkathy.com/2017/11/27/foretravel-coach-plant-tour-nacogdoches-tx/
+15:56:57	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4804
+15:56:57	Warning: 	File has moved from https://herbnkathy.com/?p=4804 to https://herbnkathy.com/2018/06/05/just-havin-fun-with-the-dogs-on-the-water/
+15:56:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4477
+15:56:58	Warning: 	File has moved from https://herbnkathy.com/?p=4477 to https://herbnkathy.com/2017/12/27/suspension-and-steering-upgrades-to-our-coach/
+15:56:58	Warning: 	Moved Permanently for https://herbnkathy.com/?p=329
+15:56:58	Warning: 	File has moved from https://herbnkathy.com/?p=329 to https://herbnkathy.com/2016/03/26/progress-being-made/
+15:56:59	Warning: 	Moved Permanently for https://herbnkathy.com/?p=314
+15:56:59	Warning: 	File has moved from https://herbnkathy.com/?p=314 to https://herbnkathy.com/2016/03/25/mechanicals-update/
+15:57:00	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4660
+15:57:00	Warning: 	File has moved from https://herbnkathy.com/?p=4660 to https://herbnkathy.com/2018/03/23/kathy-asked-are-we-too-heavy/
+15:57:00	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3543
+15:57:00	Warning: 	File has moved from https://herbnkathy.com/?p=3543 to https://herbnkathy.com/2017/03/20/an-amazing-trip-to-fort-morgan/
+15:57:03	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2371
+15:57:03	Warning: 	File has moved from https://herbnkathy.com/?p=2371 to https://herbnkathy.com/2016/11/23/herbirding-and-kathy-too/
+15:57:03	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4994
+15:57:03	Warning: 	File has moved from https://herbnkathy.com/?p=4994 to https://herbnkathy.com/2018/09/16/its-the-people-that-make-the-difference/
+15:57:03	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3610
+15:57:03	Warning: 	File has moved from https://herbnkathy.com/?p=3610 to https://herbnkathy.com/2017/03/29/a-beautiful-day-in-a-beautiful-state-park/
+15:57:06	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2627
+15:57:06	Warning: 	File has moved from https://herbnkathy.com/?p=2627 to https://herbnkathy.com/2016/12/19/rv-sewer-hose-installation-and-tank-flushing-tips/
+15:57:06	Warning: 	Moved Permanently for https://herbnkathy.com/?p=364
+15:57:06	Warning: 	File has moved from https://herbnkathy.com/?p=364 to https://herbnkathy.com/2016/04/04/the-wind-patoka-lake-state-park/
+15:57:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4868
+15:57:07	Warning: 	File has moved from https://herbnkathy.com/?p=4868 to https://herbnkathy.com/2018/07/01/we-love-our-motorhome-but/
+15:57:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2279
+15:57:07	Warning: 	File has moved from https://herbnkathy.com/?p=2279 to https://herbnkathy.com/2016/11/17/old-country-inn-pizza-to-die-for/
+15:57:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1121
+15:57:07	Warning: 	File has moved from https://herbnkathy.com/?p=1121 to https://herbnkathy.com/2016/05/04/the-numbers-final-count/
+15:57:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1588
+15:57:07	Warning: 	File has moved from https://herbnkathy.com/?p=1588 to https://herbnkathy.com/2016/09/12/we-finally-made-it-out-of-ohio/
+15:57:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1634
+15:57:07	Warning: 	File has moved from https://herbnkathy.com/?p=1634 to https://herbnkathy.com/2016/09/12/we-finally-made-it-out-of-ohio/2016-09-07-10-34-01/
+15:57:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1633
+15:57:07	Warning: 	File has moved from https://herbnkathy.com/?p=1633 to https://herbnkathy.com/2016/09/12/we-finally-made-it-out-of-ohio/2016-09-07-10-35-01/
+15:57:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1632
+15:57:07	Warning: 	File has moved from https://herbnkathy.com/?p=1632 to https://herbnkathy.com/2016/09/12/we-finally-made-it-out-of-ohio/2016-09-07-10-35-14/
+15:57:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1569
+15:57:07	Warning: 	File has moved from https://herbnkathy.com/?p=1569 to https://herbnkathy.com/2016/09/06/tire-trials-and-tribulations/2016-09-06-10-33-15/
+15:57:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1568
+15:57:07	Warning: 	File has moved from https://herbnkathy.com/?p=1568 to https://herbnkathy.com/2016/09/06/tire-trials-and-tribulations/2016-09-06-12-18-39/
+15:57:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1550
+15:57:07	Warning: 	File has moved from https://herbnkathy.com/?p=1550 to https://herbnkathy.com/2016/09/06/tire-trials-and-tribulations/
+15:57:07	Warning: 	Moved Permanently for https://herbnkathy.com/?p=952
+15:57:07	Warning: 	File has moved from https://herbnkathy.com/?p=952 to https://herbnkathy.com/2016/04/24/friday-with-paul-sue-sedona/
+15:57:08	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2569
+15:57:08	Warning: 	File has moved from https://herbnkathy.com/?p=2569 to https://herbnkathy.com/2016/12/15/wait-back-up/
+15:57:08	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2535
+15:57:08	Warning: 	File has moved from https://herbnkathy.com/?p=2535 to https://herbnkathy.com/2016/12/15/i-forgot-about-bisbee-douglas/
+15:57:08	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link c.tribune.com.pk/2015/06/906080-gallows-1434670903-994-640x480.jpg (from https://herbnkathy.com/tag/mining/)
+15:57:08	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1949
+15:57:08	Warning: 	File has moved from https://herbnkathy.com/?p=1949 to https://herbnkathy.com/2016/10/04/riding-the-verde-canyon-railroad/
+15:57:09	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2163
+15:57:09	Warning: 	File has moved from https://herbnkathy.com/?p=2163 to https://herbnkathy.com/2016/10/20/please-dont-jump-its-not-that-bad/
+15:57:10	Warning: 	Moved Permanently for https://herbnkathy.com/?p=600
+15:57:10	Warning: 	File has moved from https://herbnkathy.com/?p=600 to https://herbnkathy.com/2016/04/11/visiting-the-alamo-dale-miller/
+15:57:10	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1008
+15:57:10	Warning: 	File has moved from https://herbnkathy.com/?p=1008 to https://herbnkathy.com/2016/04/24/our-route-home-by-may-1st/
+15:57:11	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1013
+15:57:11	Warning: 	File has moved from https://herbnkathy.com/?p=1013 to https://herbnkathy.com/2016/04/26/amarillo-to-little-rock-tuesday/
+15:57:11	Warning: 	Moved Permanently for https://herbnkathy.com/?p=147
+15:57:11	Warning: 	File has moved from https://herbnkathy.com/?p=147 to https://herbnkathy.com/2012/01/01/garetts-sword-fight/
+15:57:11	Warning: 	Moved Permanently for https://herbnkathy.com/?p=1899
+15:57:11	Warning: 	File has moved from https://herbnkathy.com/?p=1899 to https://herbnkathy.com/2016/10/04/our-trip-to-ghostown-jerome/
+15:57:12	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3531
+15:57:12	Warning: 	File has moved from https://herbnkathy.com/?p=3531 to https://herbnkathy.com/2017/03/19/not-a-place-wed-come-back-to/
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=849
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=849 to https://herbnkathy.com/2016/04/23/quilts-at-the-north-ranch/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/indexf573.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3733
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=3733 to https://herbnkathy.com/2017/06/01/how-to-get-rid-of-the-varmint/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index4da9.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=44
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=44 to https://herbnkathy.com/2011/09/23/back-and-forth/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index49b1.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=116
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=116 to https://herbnkathy.com/2011/11/22/thanksmisgiving/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/indexd78c.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=435
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=435 to https://herbnkathy.com/2016/04/06/low-water-alarm/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index6205.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=7342
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=7342 to https://herbnkathy.com/2020/12/12/herb-kathys-christmas-greeting/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index2ad6.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4992
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=4992 to https://herbnkathy.com/2018/09/15/repost-the-day-our-heartland-rv-left-us-homeless/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index1582.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2011
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=2011 to https://herbnkathy.com/2016/10/10/the-road-to-and-from-payson/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index0cca.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2013
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=2013 to https://herbnkathy.com/2016/10/10/the-road-to-and-from-payson/2016-10-05-12-37-16/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index77d6.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2014
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=2014 to https://herbnkathy.com/2016/10/10/the-road-to-and-from-payson/2016-10-05-12-39-47/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index8a56.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2010
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=2010 to https://herbnkathy.com/2016-10-05-12-37-37/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index6f61.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2055
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=2055 to https://herbnkathy.com/2016/10/10/the-road-to-and-from-payson/2016-10-05-13-27-59/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/indexc63f.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2054
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=2054 to https://herbnkathy.com/2016/10/10/the-road-to-and-from-payson/2016-10-05-13-27-56/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index11a9.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=2053
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=2053 to https://herbnkathy.com/2016/10/10/the-road-to-and-from-payson/2016-10-05-13-16-21/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index1870.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=382
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=382 to https://herbnkathy.com/2016/04/04/tow-bar-troubles-the-continuing-saga-of-our-trip-west/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index802e.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=405
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=405 to https://herbnkathy.com/2016/04/06/tow-bar-update/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index4efb.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4575
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=4575 to https://herbnkathy.com/2018/03/19/our-visit-to-the-orlando-hamcation/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index1c41.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=4986
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=4986 to https://herbnkathy.com/2018/09/14/a-different-nights-stay/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index88c6.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=467
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=467 to https://herbnkathy.com/2016/04/06/oklahoma-city-national-memorial/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index7ab1.html
+15:57:22	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link c.tribune.com.pk/2015/06/906080-gallows-1434670903-994-640x480.jpg (from https://herbnkathy.com/tag/mining/)
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3534
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=3534 to https://herbnkathy.com/2017/03/19/not-a-place-wed-come-back-to/2017-03-18-19-23-14-2/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/indexd2f9.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3535
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=3535 to https://herbnkathy.com/2017/03/19/not-a-place-wed-come-back-to/2017-03-18-19-22-58/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/indexf7d8.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3536
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=3536 to https://herbnkathy.com/2017/03/19/not-a-place-wed-come-back-to/2017-03-18-19-22-22/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index551c.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3537
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=3537 to https://herbnkathy.com/2017/03/19/not-a-place-wed-come-back-to/2017-03-18-19-21-47/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index64bf.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3538
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=3538 to https://herbnkathy.com/2017/03/19/not-a-place-wed-come-back-to/2017-03-18-19-21-16/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index6d27.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3539
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=3539 to https://herbnkathy.com/2017/03/19/not-a-place-wed-come-back-to/2017-03-18-19-21-10/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/indexb02b.html
+15:57:22	Warning: 	Moved Permanently for https://herbnkathy.com/?p=3540
+15:57:22	Warning: 	File has moved from https://herbnkathy.com/?p=3540 to https://herbnkathy.com/2017/03/19/not-a-place-wed-come-back-to/2017-03-18-19-20-41/
+15:57:22	Warning: 	Warning: store text/html without scan: C:/Users/Dbald/OneDrive/HerbnKathy/basenew/herbnkathy/herbnkathy.com/index3e13.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 21 minutes 26 seconds : 10530 links scanned, 10180 files written (4399733897 bytes overall) [4267920566 bytes received at 873499 bytes/sec], 179809945 bytes transferred using HTTP compression in 4236 files, ratio 23%, 12.8 requests per connection
+(18 errors, 673 warnings, 0 messages)

@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bluefire-llc.com	TRUE	/	FALSE	1999999999	.Nop.Customer	1dc0d46b-4508-41bd-8bb0-9f9c0367a2d4
+www.fs.usda.gov	TRUE	/	FALSE	1999999999	BIGipServerLnUxwltelzYLRb1mVXz6Xg	!LuFvhPNMG7CO/xDNkZSvkGa3RzrgEdZ3N8R52u5wMrwsT9iP4NX78xw5GW+w48bpXG3Nm82pjneCMQ==
+
